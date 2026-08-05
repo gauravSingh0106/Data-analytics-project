@@ -29,12 +29,19 @@ Designed an interactive Power BI Sales Dashboard to analyze pizza sales performa
 **Business Questions (KPIs)**
 **Primary KPIs**
 Total Revenue Generated
+<br>
 1-Total Orders
+<br>
 2-Total Quantity Sold
+<br>
 3-Average Order Value
+<br>
 4-Average Pizza Price
+<br>
 5-Maximum Pizza Price
+<br>
 6-Minimum Pizza Price
+<br>
 
 
 1. **Data Collection**
