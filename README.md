@@ -44,21 +44,18 @@ Total Revenue Generated
 <br>
 
 
-1. **Data Collection**<br>
+**Data Collection**<br>
 Imported Pizza Sales dataset (.csv)<br>
 2. Data Cleaning<br>
 Checked missing values<br>
 Removed duplicate records<br>
 Corrected data types<br>
 Formatted Date and Time columns<br>
-3. Data Modeling<br>
 
-Created relationships between tables (if required)
+
 
 4.** DAX Measures**
-
 Created measures for
-
 Total Revenue<br>
 Total Orders<br>
 Total Quantity<br>
